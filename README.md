@@ -1,7 +1,11 @@
 # NiceDuck机场最新官方地址入口-优惠码-套餐详情-终极指南
 本文将为您全面介绍NiceDuck机场的最新官方地址入口、注册教程、优惠码信息、套餐详情介绍、支付相关、客户端支持、测试结果与用户的常见问题以及其他实用机场推荐，提供全面的指导，帮助您轻松完成购买，确保您能够顺利享受NiceDuck机场提供的服务。
 
-NiceDuck机场多运营商优化连接，使用了加密隧道，通过防火墙时更加隐秘，更加不易被防火墙审查；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
+NiceDuck机场，全隧道中转线路，国内多入口，高SLA保证，提供专属Emby服务。
+
+全节点流媒体支持，包括但不限于ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等
+
+Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。
 
 
 ##  注册机场账号
